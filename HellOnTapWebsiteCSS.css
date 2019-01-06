@@ -1,0 +1,155 @@
+body{
+    background-color:#020303;
+    font-family: 'VT323', monospace;
+}
+
+
+
+.menus{
+    position:absolute;
+    color:white;
+    font-size:250%;
+    top:32%;
+}
+
+#home{
+    left:15%;
+}
+
+#bgImage{
+    position:absolute;
+    left:1%;
+    top:0%;
+    opacity:.06;
+    height:190%;
+}
+
+#banner{
+    position:absolute;
+    top:0%;
+    left:-1%;
+}
+
+#features{
+    left:30%;
+}
+
+#monsterBios{
+    left:45%;
+}
+
+#creator{
+    left:60%;
+}
+
+#gallery{
+    left:75%;
+}
+
+.monImages{
+    position:absolute;
+    height:25%;
+    top:38%;
+}
+
+#mon1{
+    left:10.5%;
+}
+
+#mon2{
+    left:27%;
+}
+
+#mon3{
+    left:44%;
+}
+
+#mon4{
+    left:56.5%;
+}
+
+#mon5{
+    left:72%;
+}
+
+#heading{
+    position:absolute;
+    color:white;
+    font-size:500%;
+    left:41.5%;
+    top:22%;
+}
+
+#titleOfPage{
+    position:absolute;
+    color:White;
+    font-size:450%;
+    left:47.5%;
+    top:52%;
+    text-decoration: underline;
+}
+
+#drink1{
+    position:absolute;
+    left:35%;
+    top:25%;
+}
+#drink2{
+    position:absolute;
+    left:57.9%;
+    top:25%;
+}
+
+#para1Home{
+    position:absolute;
+    color:white;
+    font-size:150%;
+    top:70%;
+    left:21%;
+    
+}
+
+#form1{
+    position:absolute;
+    top:19%;
+    
+}
+
+#twitterButton{
+    position:absolute;
+    top:28%;
+    left:95%;
+}
+
+
+#border1{
+    position:absolute;
+    top:49%;
+    height:1%;
+    left:-1%;
+    width:101%;
+    background-color:white;
+}
+
+#border2{
+    position:absolute;
+    top:59%;
+    height:1%;
+    left:-1%;
+    width:101%;
+    background-color:white;
+}
+
+#cfo{
+    position:absolute;
+    height:50%;
+    left:43%;
+    top:-40%;
+}
+
+#hero{
+    position:absolute;
+    top:0%;
+    height:13%;
+    left:47.5%;
+}
