@@ -4,6 +4,18 @@ body{
 }
 
 
+#wrapper {
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    width:1820px;
+    height:920px;
+max-width:1820px;
+min-width:1820px;
+max-height:920px;
+min-height:920px;
+}
+
 
 .menus{
     position:absolute;
@@ -27,7 +39,7 @@ body{
 #banner{
     position:absolute;
     top:0%;
-    left:-1%;
+    left:-3.5%;
 }
 
 #features{
@@ -91,12 +103,12 @@ body{
 
 #drink1{
     position:absolute;
-    left:35%;
+    left:34.5%;
     top:25%;
 }
 #drink2{
     position:absolute;
-    left:57.9%;
+    left:59%;
     top:25%;
 }
 
@@ -111,7 +123,8 @@ body{
 
 #form1{
     position:absolute;
-    top:19%;
+    top:20%;
+    left:-2%;
     
 }
 
@@ -153,3 +166,5 @@ body{
     height:13%;
     left:47.5%;
 }
+
+
